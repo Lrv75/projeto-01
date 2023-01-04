@@ -1,2 +1,2 @@
 # projeto-01
-Meus estudos
+Orçamento mensal simples
